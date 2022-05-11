@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/freegames2play/static/css/main.78e60825.css",
+    "main.js": "/freegames2play/static/js/main.5dca2eba.js",
+    "static/js/787.9d8b65e5.chunk.js": "/freegames2play/static/js/787.9d8b65e5.chunk.js",
+    "static/media/hero.jpg": "/freegames2play/static/media/hero.56c459c9696ce0a55968.jpg",
+    "static/media/linkedin.svg": "/freegames2play/static/media/linkedin.fa9e73831b4edd4879db5ff604a57172.svg",
+    "static/media/codepen.svg": "/freegames2play/static/media/codepen.5609ff8b9514219881d796591a4416f7.svg",
+    "index.html": "/freegames2play/index.html",
+    "main.78e60825.css.map": "/freegames2play/static/css/main.78e60825.css.map",
+    "main.5dca2eba.js.map": "/freegames2play/static/js/main.5dca2eba.js.map",
+    "787.9d8b65e5.chunk.js.map": "/freegames2play/static/js/787.9d8b65e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78e60825.css",
+    "static/js/main.5dca2eba.js"
+  ]
+}
